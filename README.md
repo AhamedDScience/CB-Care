@@ -1,5 +1,6 @@
 # Comprehensive LLM-Based Q&A System
 
+[![Screenshot-2024-07-14-160447.png](https://i.postimg.cc/zGNV22Hv/Screenshot-2024-07-14-160447.png)](https://postimg.cc/hfCDfrrR)
 
 ## Overview
 
